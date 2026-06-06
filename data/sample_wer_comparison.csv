@@ -1,0 +1,6 @@
+chunk_id,third_party_transcript_cleaned,internal_transcript_cleaned,wer_third_party_cleaned_vs_internal_cleaned
+CHUNK_001,"Patient reports headache since yesterday and took paracetamol at night","Patient reports headache since yesterday and took medication at night",0.1765
+CHUNK_002,"Follow-up appointment requested in two weeks and bring lab results","Follow-up appointment requested and bring results",0.2308
+CHUNK_003,"The patient reports no fever or cough during the week","The patient reports fever and cough during the week",0.3125
+CHUNK_004,"The physician recommends repeating the test if pain continues","The physician recommends repeating the test if pain continues",0.0000
+CHUNK_005,"Blood pressure has remained stable during treatment","Blood pressure remained stable during treatment",0.0286
