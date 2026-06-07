@@ -1,7 +1,7 @@
 # medical-transcription_qa
 QA workflows for multilingual medical transcription systems, including Label Studio annotations, WER analysis, and transcription evaluation pipelines.
 
-##Project Goals
+## Project Goals
 - Connect WER evaluation outputs with Label Studio task IDs
 - Reduce manual QA review time for multilingual transcription audits
 - Map transcription chunks across different annotation systems
